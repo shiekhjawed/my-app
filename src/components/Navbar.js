@@ -30,7 +30,7 @@ function Navbar({ setCurrentPage }) {
               <a className="nav-link" href="#cakes">Cakes</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#about">about</a>
+              <a className="nav-link" href="#about">About</a>
             </li>
 
             <li className="nav-item ms-3">
