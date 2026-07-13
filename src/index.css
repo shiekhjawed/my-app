@@ -1,0 +1,12 @@
+
+
+body {
+  margin: 0;
+  background: linear-gradient(135deg, #fffaf5 0%, #ffe9ef 45%, #fff2dc 100%);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+}
+#cakes {
+  background: linear-gradient(135deg, #fff8f2 0%, #ecbecb 40%, #fce7c6 100%);
+}
